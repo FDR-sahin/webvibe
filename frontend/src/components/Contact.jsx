@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-const API_URL = import.meta.env.VITE_API_URL || 'https://webvibe-backend.onrender.com'
+const API_URL = 'https://webvibe-backend.onrender.com'
 
 const initialForm = {
   name: '',
